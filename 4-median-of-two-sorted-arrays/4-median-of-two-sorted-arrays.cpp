@@ -1,51 +1,40 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-         int len_1 = nums1.size(), len_2 = nums2.size();
-        int idx_1 = 0, idx_2 = 0, idx_m = 0;
-
-        int len_m = len_1 + len_2;
-        vector<int> merged(len_m);
-		
-		//Sort and merge both the arrays untill one of them is exausted.
-        while (idx_1 < len_1 && idx_2 < len_2)
+         int array_length_sum = nums1.size() + nums2.size();
+        int median_index0 = array_length_sum / 2;
+        int median_index1 = median_index0;
+        if (array_length_sum % 2 == 0)
         {
-            if (nums1[idx_1] <= nums2[idx_2])
+            median_index0--;
+        }
+        
+        int64_t sum = 0;
+        int nums1_index = 0;
+        int nums2_index = 0;
+        for (int i = 0; i <= median_index1; i++)
+        {
+            int value;
+            if (nums2_index >= nums2.size() || (nums1_index < nums1.size() && nums1[nums1_index] <= nums2[nums2_index]))
             {
-                merged[idx_m] = nums1[idx_1];
-                idx_1++;
+                value = nums1[nums1_index++];
             }
             else
             {
-                merged[idx_m] = nums2[idx_2];
-                idx_2++;
+                value = nums2[nums2_index++];
             }
-            idx_m++;
+            
+            if (i == median_index0)
+            {
+                sum += value;
+            }
+            if (i == median_index1)
+            {
+                sum += value;
+            }
         }
-
-		//Copy remaining elements of array 1, if any
-        while (idx_1 < len_1)
-        {
-            merged[idx_m++] = nums1[idx_1++];
-        }
-		
-		//Copy remaining elements of array 2, if any
-        while (idx_2 < len_2)
-        {
-            merged[idx_m++] = nums2[idx_2++];
-        }
-
-        int mid = len_m / 2;
-		
-		//Get median of merged array
-        if (len_m % 2 == 0)
-        {
-            return (merged[mid - 1] + merged[mid]) / 2.0;
-        }
-        else
-        {
-            return (merged[mid]);
-        }
+        
+        return static_cast<double>(sum) / 2.0;
     
     }
 };
