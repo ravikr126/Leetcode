@@ -11,7 +11,7 @@ public:
     int maxfreq = 0;
     
     FreqStack() {
-            // KNOCKCAT
+            
     }
     
     // insert
