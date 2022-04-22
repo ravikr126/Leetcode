@@ -12,8 +12,20 @@ class Solution
     int sum(int a , int b)
     {
         //code here
-         if(a == b) return 2 * a;
-        else return (a * 1LL * a - b * 1LL* b) / (a - b);
+        //1st option
+        //  if(a == b) return 2 * a;
+        // else return (a * 1LL * a - b * 1LL* b) / (a - b);
+        
+        //2nd
+        int x = a ^ b;
+        int carry = a & b;
+        while(carry!=0){
+            a = x;
+            b = (carry<<1);
+            x = a ^ b;
+            carry = a & b;
+        }
+        return x;
     }
 };
 
