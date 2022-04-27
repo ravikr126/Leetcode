@@ -9,8 +9,8 @@ public:
     long long int killinSpree(long long int n)
     {
         // Code Here
-          // Code Here
-       int i=1;
+          
+        int i=1;
        int c=0;
        while(n>0)
        {
@@ -19,8 +19,8 @@ public:
            c++;
            i++;
        }
-       return c;           
-    }
+       return c;                
+   }
 };
 
 
