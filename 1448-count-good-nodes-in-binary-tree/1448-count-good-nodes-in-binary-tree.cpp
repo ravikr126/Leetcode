@@ -11,25 +11,23 @@
  */
 class Solution {
 public:
-    int goodNodes(TreeNode* root , int maxFromRoot=INT_MIN) {
-          // base case of recursion 
-     if( root == NULL) return 0; 
+    
+    int solve(TreeNode* root,int maxi)
+    {
+        if(root==NULL)
+            return 0;
         
-        int count = 0;
+        maxi=max(root->val,maxi);
+        if(root->val>=maxi)
+            return 1+ solve(root->left,maxi)+solve(root->right,maxi);
+        return solve(root->left,maxi)+solve(root->right,maxi);
         
-        // if the root value is >= max value till now 
-        // we got a one good node, so increase the count 
-        // also update the max value which we are going to pass for left and right subtree
-        if( root->val >= maxFromRoot){ 
-            count++;
-            maxFromRoot = root->val;
-        }
         
-        // recursive call for sub problem 
-        count += goodNodes( root->left , maxFromRoot );
-        count += goodNodes( root->right , maxFromRoot );
+    }
+    int goodNodes(TreeNode* root) {
         
-        // returning the final ans
-        return count;
+      
+        return solve(root,INT_MIN);
+        
     }
 };
