@@ -1,17 +1,24 @@
 class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
-          vector<int>ans;
-            int n = arr.size();
-            priority_queue<pair<int , int> , vector<pair<int , int>> , greater<pair<int , int>>>q; 
-            for(int i=0 ; i<n ; i++){
-                q.push({abs(x-arr[i]) , arr[i]});
-            }
-            while(k--){
-                ans.push_back(q.top().second);
-                q.pop();
-            }
-            sort(ans.begin() , ans.end());
-            return ans;
+        
+        //use pair priority queue 
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>>q;
+                                                                     
+        //push all the element with their absolute difference
+        for(auto y:arr){
+            q.push({abs(x-y),y});
+        }
+        
+        //allocate a vector which store all the value
+        vector<int>ans;
+        for(int i=0;i<k;i++){
+            ans.push_back(q.top().second);
+            //removing
+            q.pop();
+        }
+        // sort the element in acending order
+        sort(ans.begin(),ans.end());
+        return ans;
     }
 };
