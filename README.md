@@ -22,6 +22,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/ravikr126/Leetcode/tree/master/0133-clone-graph) |
 | [0268-missing-number](https://github.com/ravikr126/Leetcode/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/ravikr126/Leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/ravikr126/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/ravikr126/Leetcode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ravikr126/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0567-permutation-in-string](https://github.com/ravikr126/Leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Counting
 |  |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravikr126/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0567-permutation-in-string](https://github.com/ravikr126/Leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,4 +104,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ravikr126/Leetcode/tree/master/0133-clone-graph) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ravikr126/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
