@@ -10,6 +10,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ravikr126/Leetcode/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ravikr126/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/ravikr126/Leetcode/tree/master/0268-missing-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ravikr126/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravikr126/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/ravikr126/Leetcode/tree/master/0048-rotate-image) |
 | [0179-largest-number](https://github.com/ravikr126/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/ravikr126/Leetcode/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/ravikr126/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ravikr126/Leetcode/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ravikr126/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
