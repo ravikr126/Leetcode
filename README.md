@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravikr126/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0045-jump-game-ii](https://github.com/ravikr126/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ravikr126/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ravikr126/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ravikr126/Leetcode/tree/master/0179-largest-number) |
@@ -53,6 +54,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ravikr126/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ravikr126/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ravikr126/Leetcode/tree/master/0179-largest-number) |
 ## Sorting
@@ -64,6 +66,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ravikr126/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ravikr126/Leetcode/tree/master/0055-jump-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ravikr126/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
