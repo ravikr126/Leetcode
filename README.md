@@ -34,6 +34,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/ravikr126/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0567-permutation-in-string](https://github.com/ravikr126/Leetcode/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2580-circular-sentence](https://github.com/ravikr126/Leetcode/tree/master/2580-circular-sentence) |
 ## Counting
 |  |
 | ------- |
