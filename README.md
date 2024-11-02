@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ravikr126/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ravikr126/Leetcode/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ravikr126/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0567-permutation-in-string](https://github.com/ravikr126/Leetcode/tree/master/0567-permutation-in-string) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravikr126/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ravikr126/Leetcode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/ravikr126/Leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
