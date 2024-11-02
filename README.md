@@ -45,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ravikr126/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravikr126/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/ravikr126/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ravikr126/Leetcode/tree/master/0048-rotate-image) |
@@ -59,6 +60,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ravikr126/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/ravikr126/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ravikr126/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/ravikr126/Leetcode/tree/master/0135-candy) |
@@ -87,6 +89,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ravikr126/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravikr126/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ravikr126/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/ravikr126/Leetcode/tree/master/0392-is-subsequence) |
