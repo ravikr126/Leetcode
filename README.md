@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ravikr126/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ravikr126/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ravikr126/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ravikr126/Leetcode/tree/master/0125-valid-palindrome) |
