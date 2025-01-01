@@ -52,6 +52,7 @@
 | [0567-permutation-in-string](https://github.com/ravikr126/Leetcode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/ravikr126/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ravikr126/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2580-circular-sentence](https://github.com/ravikr126/Leetcode/tree/master/2580-circular-sentence) |
 ## Counting
 |  |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ravikr126/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/ravikr126/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## String Matching
 |  |
