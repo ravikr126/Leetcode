@@ -157,11 +157,13 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/ravikr126/Leetcode/tree/master/0133-clone-graph) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
