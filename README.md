@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/ravikr126/Leetcode/tree/master/0268-missing-number) |
 | [2716-prime-subtraction-operation](https://github.com/ravikr126/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ravikr126/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ravikr126/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Number Theory
 |  |
@@ -43,6 +44,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/ravikr126/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravikr126/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ravikr126/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2580-circular-sentence](https://github.com/ravikr126/Leetcode/tree/master/2580-circular-sentence) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ravikr126/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Counting
 |  |
@@ -68,6 +71,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravikr126/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +120,7 @@
 | [0055-jump-game](https://github.com/ravikr126/Leetcode/tree/master/0055-jump-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ravikr126/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/ravikr126/Leetcode/tree/master/0392-is-subsequence) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ravikr126/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
