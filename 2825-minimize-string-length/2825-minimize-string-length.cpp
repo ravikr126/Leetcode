@@ -1,10 +1,14 @@
 class Solution {
 public:
     int minimizedStringLength(string s) {
-        set<int> box;
-        for(auto it: s){
-            box.insert(it);
+        bool arr[26] = {false};
+        int n = s.length(), count = 0;
+        for(int i = 0; i < n; i++){
+            if(!arr[s[i] - 'a']){
+                arr[s[i] - 'a'] = true;
+                count++;
+            }
         }
-        return box.size();
+        return count;
     }
 };
