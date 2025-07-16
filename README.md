@@ -66,6 +66,7 @@
 | [0812-rotate-string](https://github.com/ravikr126/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ravikr126/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ravikr126/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ravikr126/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2580-circular-sentence](https://github.com/ravikr126/Leetcode/tree/master/2580-circular-sentence) |
 | [2825-minimize-string-length](https://github.com/ravikr126/Leetcode/tree/master/2825-minimize-string-length) |
@@ -243,4 +244,8 @@
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ravikr126/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ravikr126/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
