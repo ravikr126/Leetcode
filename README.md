@@ -45,6 +45,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/ravikr126/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ravikr126/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ravikr126/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravikr126/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2825-minimize-string-length](https://github.com/ravikr126/Leetcode/tree/master/2825-minimize-string-length) |
@@ -67,6 +68,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ravikr126/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ravikr126/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ravikr126/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ravikr126/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2580-circular-sentence](https://github.com/ravikr126/Leetcode/tree/master/2580-circular-sentence) |
 | [2825-minimize-string-length](https://github.com/ravikr126/Leetcode/tree/master/2825-minimize-string-length) |
@@ -80,6 +82,7 @@
 | [0383-ransom-note](https://github.com/ravikr126/Leetcode/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ravikr126/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravikr126/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Array
