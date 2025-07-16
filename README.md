@@ -114,6 +114,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ravikr126/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ravikr126/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ravikr126/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ravikr126/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
@@ -148,6 +149,7 @@
 | [0392-is-subsequence](https://github.com/ravikr126/Leetcode/tree/master/0392-is-subsequence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ravikr126/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ravikr126/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
