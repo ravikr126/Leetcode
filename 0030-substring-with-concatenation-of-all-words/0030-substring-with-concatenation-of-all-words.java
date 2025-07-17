@@ -19,7 +19,8 @@ public class Solution {
 
             while (right + wordLen <= s.length()) {
                 String word = s.substring(right, right + wordLen);
-                right+= wordLen;
+                    right+= wordLen;
+
                 if (wordCount.containsKey(word)) {
                     seen.put(word, seen.getOrDefault(word, 0) + 1);
                     count++;
