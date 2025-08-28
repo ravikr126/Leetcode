@@ -120,6 +120,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ravikr126/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ravikr126/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/ravikr126/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ravikr126/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ravikr126/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3748-sort-matrix-by-diagonals](https://github.com/ravikr126/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ravikr126/Leetcode/tree/master/0048-rotate-image) |
+| [3748-sort-matrix-by-diagonals](https://github.com/ravikr126/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
 |  |
 | ------- |
