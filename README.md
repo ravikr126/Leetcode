@@ -109,6 +109,7 @@
 | [0414-third-maximum-number](https://github.com/ravikr126/Leetcode/tree/master/0414-third-maximum-number) |
 | [1006-vowel-spellchecker](https://github.com/ravikr126/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1031-add-to-array-form-of-integer](https://github.com/ravikr126/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1046-max-consecutive-ones-iii](https://github.com/ravikr126/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ravikr126/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/ravikr126/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ravikr126/Leetcode/tree/master/0268-missing-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/ravikr126/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ravikr126/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2716-prime-subtraction-operation](https://github.com/ravikr126/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -241,6 +243,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ravikr126/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0567-permutation-in-string](https://github.com/ravikr126/Leetcode/tree/master/0567-permutation-in-string) |
 | [0867-new-21-game](https://github.com/ravikr126/Leetcode/tree/master/0867-new-21-game) |
+| [1046-max-consecutive-ones-iii](https://github.com/ravikr126/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ravikr126/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ravikr126/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ravikr126/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -253,6 +256,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ravikr126/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/ravikr126/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ravikr126/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## String Matching
