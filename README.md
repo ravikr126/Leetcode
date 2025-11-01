@@ -11,6 +11,7 @@
 | [0206-reverse-linked-list](https://github.com/ravikr126/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ravikr126/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ravikr126/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ravikr126/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ravikr126/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravikr126/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2825-minimize-string-length](https://github.com/ravikr126/Leetcode/tree/master/2825-minimize-string-length) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ravikr126/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ravikr126/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3827-implement-router](https://github.com/ravikr126/Leetcode/tree/master/3827-implement-router) |
@@ -130,6 +132,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/ravikr126/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ravikr126/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ravikr126/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ravikr126/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ravikr126/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ravikr126/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
