@@ -24,6 +24,7 @@
 | [0867-new-21-game](https://github.com/ravikr126/Leetcode/tree/master/0867-new-21-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/ravikr126/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ravikr126/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ravikr126/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ravikr126/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2716-prime-subtraction-operation](https://github.com/ravikr126/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ravikr126/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -325,5 +326,6 @@
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ravikr126/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/ravikr126/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ravikr126/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
