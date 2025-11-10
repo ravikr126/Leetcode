@@ -64,6 +64,7 @@
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ravikr126/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3827-implement-router](https://github.com/ravikr126/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ravikr126/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ravikr126/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ravikr126/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3827-implement-router](https://github.com/ravikr126/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ravikr126/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [2716-prime-subtraction-operation](https://github.com/ravikr126/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ravikr126/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ravikr126/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -305,6 +308,7 @@
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ravikr126/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ravikr126/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ravikr126/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -328,4 +332,8 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ravikr126/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ravikr126/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ravikr126/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ravikr126/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
