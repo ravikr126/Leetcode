@@ -33,6 +33,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ravikr126/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ravikr126/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/ravikr126/Leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Number Theory
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ravikr126/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/ravikr126/Leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Recursion
 |  |
 | ------- |
