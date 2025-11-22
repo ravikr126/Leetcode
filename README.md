@@ -102,6 +102,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/ravikr126/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ravikr126/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ravikr126/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravikr126/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ravikr126/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ravikr126/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Array
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ravikr126/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ravikr126/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/ravikr126/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ravikr126/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Probability and Statistics
 |  |
