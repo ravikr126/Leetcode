@@ -130,6 +130,7 @@
 | [0414-third-maximum-number](https://github.com/ravikr126/Leetcode/tree/master/0414-third-maximum-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ravikr126/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [1006-vowel-spellchecker](https://github.com/ravikr126/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ravikr126/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1031-add-to-array-form-of-integer](https://github.com/ravikr126/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/ravikr126/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ravikr126/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ravikr126/Leetcode/tree/master/0268-missing-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ravikr126/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1940-maximum-xor-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ravikr126/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravikr126/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
