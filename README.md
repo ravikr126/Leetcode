@@ -22,6 +22,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/ravikr126/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/ravikr126/Leetcode/tree/master/0268-missing-number) |
 | [0867-new-21-game](https://github.com/ravikr126/Leetcode/tree/master/0867-new-21-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1031-add-to-array-form-of-integer](https://github.com/ravikr126/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ravikr126/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ravikr126/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -55,6 +56,7 @@
 | [0768-partition-labels](https://github.com/ravikr126/Leetcode/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1006-vowel-spellchecker](https://github.com/ravikr126/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/ravikr126/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ravikr126/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
