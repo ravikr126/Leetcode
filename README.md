@@ -145,6 +145,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ravikr126/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ravikr126/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ravikr126/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ravikr126/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ravikr126/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -185,6 +186,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/ravikr126/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/ravikr126/Leetcode/tree/master/0768-partition-labels) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ravikr126/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ravikr126/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ravikr126/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ravikr126/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2716-prime-subtraction-operation](https://github.com/ravikr126/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -203,6 +205,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/ravikr126/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ravikr126/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ravikr126/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ravikr126/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ravikr126/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -253,6 +256,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/ravikr126/Leetcode/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/ravikr126/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/ravikr126/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ravikr126/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ravikr126/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
