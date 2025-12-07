@@ -24,6 +24,7 @@
 | [0867-new-21-game](https://github.com/ravikr126/Leetcode/tree/master/0867-new-21-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1031-add-to-array-form-of-integer](https://github.com/ravikr126/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ravikr126/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ravikr126/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ravikr126/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ravikr126/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
