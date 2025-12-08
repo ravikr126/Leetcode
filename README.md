@@ -27,6 +27,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ravikr126/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ravikr126/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ravikr126/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [1925-count-square-sum-triples](https://github.com/ravikr126/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ravikr126/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ravikr126/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2716-prime-subtraction-operation](https://github.com/ravikr126/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -418,6 +419,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/ravikr126/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ravikr126/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ravikr126/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Geometry
