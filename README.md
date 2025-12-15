@@ -29,6 +29,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/ravikr126/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ravikr126/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1925-count-square-sum-triples](https://github.com/ravikr126/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ravikr126/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ravikr126/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ravikr126/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2716-prime-subtraction-operation](https://github.com/ravikr126/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -161,6 +162,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ravikr126/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1940-maximum-xor-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ravikr126/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ravikr126/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ravikr126/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -246,6 +248,7 @@
 | [0392-is-subsequence](https://github.com/ravikr126/Leetcode/tree/master/0392-is-subsequence) |
 | [0867-new-21-game](https://github.com/ravikr126/Leetcode/tree/master/0867-new-21-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ravikr126/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ravikr126/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ravikr126/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
