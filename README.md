@@ -187,6 +187,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ravikr126/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/ravikr126/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ravikr126/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ravikr126/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ravikr126/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ravikr126/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -253,6 +254,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ravikr126/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ravikr126/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ravikr126/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -316,6 +318,7 @@
 | [0113-path-sum-ii](https://github.com/ravikr126/Leetcode/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ravikr126/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,6 +329,7 @@
 | [0133-clone-graph](https://github.com/ravikr126/Leetcode/tree/master/0133-clone-graph) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ravikr126/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
