@@ -106,6 +106,7 @@
 | [0768-partition-labels](https://github.com/ravikr126/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/ravikr126/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/ravikr126/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/ravikr126/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ravikr126/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ravikr126/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -152,6 +153,7 @@
 | [0414-third-maximum-number](https://github.com/ravikr126/Leetcode/tree/master/0414-third-maximum-number) |
 | [0706-design-hashmap](https://github.com/ravikr126/Leetcode/tree/master/0706-design-hashmap) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ravikr126/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/ravikr126/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/ravikr126/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ravikr126/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1031-add-to-array-form-of-integer](https://github.com/ravikr126/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -213,6 +215,7 @@
 | [0179-largest-number](https://github.com/ravikr126/Leetcode/tree/master/0179-largest-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ravikr126/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/ravikr126/Leetcode/tree/master/0768-partition-labels) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/ravikr126/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ravikr126/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/ravikr126/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ravikr126/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
