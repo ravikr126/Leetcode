@@ -1,32 +1,26 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    vector<vector<int>> pathSum(TreeNode* root, int sum) {
-        vector<vector<int>>paths;
+    vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
+        vector<vector<int>> res;
         vector<int> path;
-        findPath(root, sum, path , paths);
-        return paths;
+        dfs(root, targetSum, 0, path, res);
+        return res;
     }
-    private:
-    void findPath(TreeNode* node, int sum, vector<int>& path,    vector<vector<int>>& paths){
-        if(!node) return;
-        path.push_back(node->val);
-        if(!(node->left)&& !(node->right) && sum== node-> val){
-            paths.push_back(path);
-        }
-        findPath(node->left, sum- node->val, path, paths);
-        findPath(node->right, sum- node->val, path, paths);
-path.pop_back();
 
+    void dfs(TreeNode* node, int targetSum, int curSum,
+             vector<int>& path, vector<vector<int>>& res) {
+        if (!node) return;
+
+        curSum += node->val;
+        path.push_back(node->val);
+
+        if (!node->left && !node->right && curSum == targetSum) {
+            res.push_back(path);
+        }
+
+        dfs(node->left, targetSum, curSum, path, res);
+        dfs(node->right, targetSum, curSum, path, res);
+
+        path.pop_back();
     }
 };
