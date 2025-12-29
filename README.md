@@ -64,6 +64,7 @@
 | [0383-ransom-note](https://github.com/ravikr126/Leetcode/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/ravikr126/Leetcode/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/ravikr126/Leetcode/tree/master/0706-design-hashmap) |
+| [0756-pyramid-transition-matrix](https://github.com/ravikr126/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/ravikr126/Leetcode/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -104,6 +105,7 @@
 | [0392-is-subsequence](https://github.com/ravikr126/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ravikr126/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ravikr126/Leetcode/tree/master/0567-permutation-in-string) |
+| [0756-pyramid-transition-matrix](https://github.com/ravikr126/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/ravikr126/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/ravikr126/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -319,6 +321,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ravikr126/Leetcode/tree/master/0268-missing-number) |
+| [0756-pyramid-transition-matrix](https://github.com/ravikr126/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ravikr126/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1940-maximum-xor-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ravikr126/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -481,6 +484,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ravikr126/Leetcode/tree/master/0113-path-sum-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/ravikr126/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 ## Enumeration
 |  |
 | ------- |
