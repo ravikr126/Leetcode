@@ -274,6 +274,7 @@
 | [0392-is-subsequence](https://github.com/ravikr126/Leetcode/tree/master/0392-is-subsequence) |
 | [0867-new-21-game](https://github.com/ravikr126/Leetcode/tree/master/0867-new-21-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ravikr126/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ravikr126/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/ravikr126/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ravikr126/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ravikr126/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
