@@ -360,6 +360,7 @@
 | [0113-path-sum-ii](https://github.com/ravikr126/Leetcode/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ravikr126/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0814-binary-tree-pruning](https://github.com/ravikr126/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -375,6 +376,7 @@
 | [0133-clone-graph](https://github.com/ravikr126/Leetcode/tree/master/0133-clone-graph) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ravikr126/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0814-binary-tree-pruning](https://github.com/ravikr126/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -400,6 +402,7 @@
 | [0113-path-sum-ii](https://github.com/ravikr126/Leetcode/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ravikr126/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0814-binary-tree-pruning](https://github.com/ravikr126/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
