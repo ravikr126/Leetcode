@@ -236,6 +236,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ravikr126/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ravikr126/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ravikr126/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ravikr126/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ravikr126/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ravikr126/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ravikr126/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -315,6 +316,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ravikr126/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ravikr126/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/ravikr126/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ravikr126/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ravikr126/Leetcode/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Recursion
 |  |
@@ -460,6 +462,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ravikr126/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/ravikr126/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ravikr126/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ravikr126/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
 |  |
