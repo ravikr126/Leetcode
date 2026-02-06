@@ -12,31 +12,28 @@
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-       vector<int> morris;
-       TreeNode* curr = root;
-
-       while (curr){
-        if (!curr->left){
-            morris.push_back(curr->val);
-            curr = curr->right;
+        vector<int> inorder;
+        TreeNode* curr= root;
+        while(curr){
+            if(!curr->left){
+                inorder.push_back(curr->val);
+                curr=curr->right;
+            } else{
+                TreeNode* temp= curr->left;
+                while(temp->right && temp->right!=curr){
+                    temp=temp->right;
+                }
+                if(temp->right==NULL){
+                    temp->right= curr;
+                    curr= curr->left;
+                }
+                else{
+                    temp->right=NULL;
+                    inorder.push_back(curr->val);
+                    curr=curr->right;
+                }
+            }
         }
-        else{
-            TreeNode* prev = curr->left;
-            while (prev->right && prev->right != curr){
-                prev = prev->right;
-            }
-            if (prev->right == nullptr){
-                prev->right = curr;
-                curr = curr->left;
-            }
-            else{
-                prev->right = nullptr;
-                morris.push_back(curr->val);
-                curr = curr->right;
-            }
-        }
-       } 
-
-       return morris;
+        return inorder;
     }
 };
