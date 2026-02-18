@@ -391,6 +391,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/ravikr126/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ravikr126/Leetcode/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ravikr126/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/ravikr126/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ravikr126/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1940-maximum-xor-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
