@@ -10,15 +10,19 @@
  * };
  */
 class Solution {
-  int sumRootToLeaf(TreeNode* root, int sum){
-        if(!root) return 0;
-        sum = (2 * sum) + root->val;
-        if(!root->left && !root->right) return sum;
-        return sumRootToLeaf(root->left, sum) + sumRootToLeaf(root->right, sum);
-    }
 public:
     int sumRootToLeaf(TreeNode* root) {
-        return sumRootToLeaf(root, 0);
+        return dfs(root, 0);
     }
-    
+
+     int dfs(TreeNode* node, int curr) {
+        if (!node) return 0;
+
+        curr = curr * 2 + node->val; // append this bit
+
+        if (!node->left && !node->right) // leaf
+            return curr;
+
+        return dfs(node->left, curr) + dfs(node->right, curr);
+    }
 };
