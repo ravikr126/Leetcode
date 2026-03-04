@@ -438,6 +438,7 @@
 | [0112-path-sum](https://github.com/ravikr126/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ravikr126/Leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ravikr126/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ravikr126/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ravikr126/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ravikr126/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -461,6 +462,7 @@
 | [0113-path-sum-ii](https://github.com/ravikr126/Leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ravikr126/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/ravikr126/Leetcode/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ravikr126/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ravikr126/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0814-binary-tree-pruning](https://github.com/ravikr126/Leetcode/tree/master/0814-binary-tree-pruning) |
@@ -494,6 +496,7 @@
 | [0112-path-sum](https://github.com/ravikr126/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ravikr126/Leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ravikr126/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ravikr126/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ravikr126/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ravikr126/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -588,6 +591,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ravikr126/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravikr126/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ravikr126/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ravikr126/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ravikr126/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/ravikr126/Leetcode/tree/master/2211-count-collisions-on-a-road) |
