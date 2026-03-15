@@ -32,6 +32,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/ravikr126/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ravikr126/Leetcode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ravikr126/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/ravikr126/Leetcode/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ravikr126/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ravikr126/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ravikr126/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -625,6 +626,7 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/ravikr126/Leetcode/tree/master/0706-design-hashmap) |
+| [1622-fancy-sequence](https://github.com/ravikr126/Leetcode/tree/master/1622-fancy-sequence) |
 | [3827-implement-router](https://github.com/ravikr126/Leetcode/tree/master/3827-implement-router) |
 ## Queue
 |  |
@@ -687,6 +689,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/ravikr126/Leetcode/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/ravikr126/Leetcode/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ravikr126/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
