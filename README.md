@@ -256,6 +256,7 @@
 | [3379-transformed-array](https://github.com/ravikr126/Leetcode/tree/master/3379-transformed-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ravikr126/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ravikr126/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ravikr126/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3453-separate-squares-i](https://github.com/ravikr126/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ravikr126/Leetcode/tree/master/3454-separate-squares-ii) |
@@ -372,6 +373,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ravikr126/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ravikr126/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ravikr126/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ravikr126/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ravikr126/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -567,6 +569,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/ravikr126/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/ravikr126/Leetcode/tree/master/2906-construct-product-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ravikr126/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ravikr126/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ravikr126/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ravikr126/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
