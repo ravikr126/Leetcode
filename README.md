@@ -79,6 +79,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/ravikr126/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/ravikr126/Leetcode/tree/master/0768-partition-labels) |
 | [0840-magic-squares-in-grid](https://github.com/ravikr126/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/ravikr126/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ravikr126/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -200,6 +201,7 @@
 | [0706-design-hashmap](https://github.com/ravikr126/Leetcode/tree/master/0706-design-hashmap) |
 | [0759-set-intersection-size-at-least-two](https://github.com/ravikr126/Leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/ravikr126/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/ravikr126/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ravikr126/Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ravikr126/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/ravikr126/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -659,6 +661,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/ravikr126/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ravikr126/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ravikr126/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ravikr126/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
