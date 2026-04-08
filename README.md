@@ -285,6 +285,7 @@
 | [3640-trionic-array-ii](https://github.com/ravikr126/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ravikr126/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ravikr126/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ravikr126/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ravikr126/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ravikr126/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ravikr126/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -677,6 +678,7 @@
 | [2751-robot-collisions](https://github.com/ravikr126/Leetcode/tree/master/2751-robot-collisions) |
 | [3379-transformed-array](https://github.com/ravikr126/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ravikr126/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ravikr126/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -743,6 +745,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/ravikr126/Leetcode/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/ravikr126/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ravikr126/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ravikr126/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
