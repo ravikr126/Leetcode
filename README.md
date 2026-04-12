@@ -69,6 +69,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ravikr126/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0133-clone-graph](https://github.com/ravikr126/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ravikr126/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/ravikr126/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ravikr126/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ravikr126/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ravikr126/Leetcode/tree/master/0268-missing-number) |
@@ -167,6 +168,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ravikr126/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ravikr126/Leetcode/tree/master/0383-ransom-note) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ravikr126/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ravikr126/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -192,6 +194,7 @@
 | [0085-maximal-rectangle](https://github.com/ravikr126/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravikr126/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/ravikr126/Leetcode/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/ravikr126/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ravikr126/Leetcode/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/ravikr126/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/ravikr126/Leetcode/tree/master/0217-contains-duplicate) |
@@ -324,6 +327,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ravikr126/Leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/ravikr126/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ravikr126/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ravikr126/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ravikr126/Leetcode/tree/master/0268-missing-number) |
@@ -745,6 +749,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ravikr126/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ravikr126/Leetcode/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/ravikr126/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ravikr126/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
