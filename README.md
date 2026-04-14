@@ -242,6 +242,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravikr126/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2402-meeting-rooms-iii](https://github.com/ravikr126/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/ravikr126/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ravikr126/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ravikr126/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/ravikr126/Leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -348,6 +349,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ravikr126/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2402-meeting-rooms-iii](https://github.com/ravikr126/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/ravikr126/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/ravikr126/Leetcode/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ravikr126/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ravikr126/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -382,6 +384,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ravikr126/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/ravikr126/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/ravikr126/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ravikr126/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ravikr126/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ravikr126/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
