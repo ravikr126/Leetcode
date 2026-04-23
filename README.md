@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ravikr126/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ravikr126/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ravikr126/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/ravikr126/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/ravikr126/Leetcode/tree/master/0706-design-hashmap) |
