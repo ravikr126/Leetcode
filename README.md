@@ -94,6 +94,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ravikr126/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ravikr126/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2402-meeting-rooms-iii](https://github.com/ravikr126/Leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2615-sum-of-distances](https://github.com/ravikr126/Leetcode/tree/master/2615-sum-of-distances) |
 | [2825-minimize-string-length](https://github.com/ravikr126/Leetcode/tree/master/2825-minimize-string-length) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ravikr126/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ravikr126/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -250,6 +251,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/ravikr126/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ravikr126/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ravikr126/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2615-sum-of-distances](https://github.com/ravikr126/Leetcode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ravikr126/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/ravikr126/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ravikr126/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -610,6 +612,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/ravikr126/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ravikr126/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ravikr126/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/ravikr126/Leetcode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/ravikr126/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/ravikr126/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/ravikr126/Leetcode/tree/master/2906-construct-product-matrix) |
