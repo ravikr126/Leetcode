@@ -547,6 +547,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/ravikr126/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ravikr126/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ravikr126/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2685-count-the-number-of-complete-components](https://github.com/ravikr126/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ravikr126/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
@@ -564,6 +565,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ravikr126/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ravikr126/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/ravikr126/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ravikr126/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
@@ -794,6 +796,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ravikr126/Leetcode/tree/master/0207-course-schedule) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ravikr126/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [2685-count-the-number-of-complete-components](https://github.com/ravikr126/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ravikr126/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ravikr126/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -829,6 +832,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/ravikr126/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ravikr126/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ravikr126/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2685-count-the-number-of-complete-components](https://github.com/ravikr126/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ravikr126/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Trie
 |  |
