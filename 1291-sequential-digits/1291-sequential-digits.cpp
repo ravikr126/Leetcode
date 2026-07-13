@@ -1,28 +1,26 @@
 class Solution {
 public:
+    inline static int q[45];
+    inline static bool init = []() {
+        int n = 0;
+        for (int i = 1; i < 10; i++)
+            q[n++] = i;
+
+        for (int i = 0; i < n; i++) {
+            int d = q[i] % 10;
+            if (d < 9) q[n++] = q[i] * 10 + d + 1;
+        }
+
+        return 0;
+    }();
+
     vector<int> sequentialDigits(int low, int high) {
+        vector<int> res;
 
-vector<int> res;        
-string dig ="123456789";
+        for (auto& x : q)
+            if (x >= low && x <= high)
+                res.push_back(x);
 
-int lowst=to_string(low).size(); // preparing for window size
-int upst=to_string(high).size();
-
-        
-for(int i=lowst;i<=upst;i++) // loop on size
-{ 
-
-for(int j=0;j<10-i;j++)
-{
-int num =stoi(dig.substr(j,i));
-
-if(num>=low && num<=high) res.push_back(num);
-
-}
-}
-
-
-return res;
-        
-    }  
+        return res;
+    }
 };
