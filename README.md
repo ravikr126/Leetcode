@@ -51,6 +51,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ravikr126/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ravikr126/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ravikr126/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3536-maximum-product-of-two-digits](https://github.com/ravikr126/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ravikr126/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ravikr126/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ravikr126/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -387,6 +388,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/ravikr126/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ravikr126/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3531-count-covered-buildings](https://github.com/ravikr126/Leetcode/tree/master/3531-count-covered-buildings) |
+| [3536-maximum-product-of-two-digits](https://github.com/ravikr126/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ravikr126/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ravikr126/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ravikr126/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
