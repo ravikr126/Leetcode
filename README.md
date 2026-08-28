@@ -180,6 +180,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/ravikr126/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3713-longest-balanced-substring-i](https://github.com/ravikr126/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ravikr126/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ravikr126/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ravikr126/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
@@ -467,6 +468,7 @@
 | [0768-partition-labels](https://github.com/ravikr126/Leetcode/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/ravikr126/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ravikr126/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ravikr126/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ravikr126/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -781,6 +783,7 @@
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ravikr126/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ravikr126/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/ravikr126/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ravikr126/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ravikr126/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Geometry
 |  |
